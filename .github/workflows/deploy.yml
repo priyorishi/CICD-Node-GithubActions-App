@@ -23,5 +23,3 @@ jobs:
             cd /home/ubuntu/CICD-Node-GithubActions-App
             git pull
             docker-compose up -d --build
-
-      - 
